@@ -6,5 +6,6 @@ module.exports = {
     logo: '/logo.jpg',
     nav:[
         {text: 'Home', link:'/'}
-    ]
+    ],
+    lastUpdated: 'Last Updated'
 }
