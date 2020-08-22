@@ -6,13 +6,14 @@
   "directories": {
     "doc": "docs"
   },
-  "dependencies": {  },
+  "dependencies": {},
   "devDependencies": {
     "vuepress": "^1.4.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "vuepress dev docs"
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
   "author": "",
   "license": "GPL-3.0-or-later"
