@@ -4,5 +4,6 @@ module.exports = {
     evergreen:true,
     extraWatchFiles: [
         '.vuepress/theme.js'
-    ]
+    ],
+    dest: "./public"
 }
